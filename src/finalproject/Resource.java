@@ -1,4 +1,4 @@
-package finalproject;
+package GalaxyOfJavaQuest;
 
 /**
  * Represents resources in the Galaxy of JavaQuest game.
