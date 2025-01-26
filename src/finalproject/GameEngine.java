@@ -1,4 +1,4 @@
-package finalproject;
+package GalaxyOfJavaQuest;
 
 import java.util.ArrayList;
 import java.util.List;
