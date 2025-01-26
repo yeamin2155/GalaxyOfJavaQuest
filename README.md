@@ -1,5 +1,6 @@
 Galaxy of JavaQuest
-Description of this Project: This is text-based space exploration game where players navigate the galaxy, manage resources, and encounter challenges involving aliens and planets.
+
+Description: This is text-based space exploration game where players navigate the galaxy, manage resources, and encounter challenges involving aliens and planets.
 
 Features:
 - Crew creation with unique attributes like strength, intelligence, and agility.
