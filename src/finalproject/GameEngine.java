@@ -1,7 +1,3 @@
-//Implemented by Dayan Kijege and Yeamin
-//Cosc242501-Asg9
-//Professor McCurry 
-
 package finalproject;
 
 import java.util.ArrayList;
