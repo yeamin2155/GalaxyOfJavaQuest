@@ -1,4 +1,4 @@
-package finalproject;
+package GalaxyOfJavaQuest;
 
 public class GalaxyOfJavaQuestGame {
 
