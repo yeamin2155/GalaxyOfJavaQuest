@@ -1,4 +1,4 @@
-package finalproject;
+package GalaxyOfJavaQuest;
 
 /**
  * Represents a crew member in the Galaxy of JavaQuest game.
