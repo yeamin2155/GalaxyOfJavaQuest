@@ -1,4 +1,4 @@
-package finalproject;
+package GalaxyOfJavaQuest;
 
 public enum AlienDisposition {
     FRIENDLY,    // Aliens that are open to trade and diplomacy
