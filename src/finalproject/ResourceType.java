@@ -1,4 +1,4 @@
-package finalproject;
+package GalaxyOfJavaQuest;
 
 /**
  * Enum representing different types of resources in the game.
