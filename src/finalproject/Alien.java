@@ -1,5 +1,4 @@
-
-package finalproject;
+package GalaxyOfJavaQuest;
 
 /**
  * Represents an alien species in the Galaxy of JavaQuest game.
