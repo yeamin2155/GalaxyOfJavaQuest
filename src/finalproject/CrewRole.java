@@ -1,5 +1,4 @@
 package GalaxyOfJavaQuest;
-
 /**
  * Enum representing different crew roles in the game.
  */
