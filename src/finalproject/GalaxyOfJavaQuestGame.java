@@ -1,6 +1,3 @@
-//Implemented by Dayan Kijege and Yeamin
-//Cosc242501-Asg9
-//Professor McCurry 
 package finalproject;
 
 public class GalaxyOfJavaQuestGame {
