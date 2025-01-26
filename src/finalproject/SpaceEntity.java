@@ -1,4 +1,4 @@
-package finalproject;
+package GalaxyOfJavaQuest;
 
 /**
  * Abstract base class for all entities in the Galaxy of JavaQuest game.
