@@ -4,5 +4,5 @@
 /**
  * 
  */
-module COSC2425finalproject {
+module GalaxyOfJavaQuest {
 }
